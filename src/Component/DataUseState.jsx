@@ -1,7 +1,7 @@
 
 import React, { useState } from 'react'
 
-const DataEffect = () => {
+const DataUseState = () => {
 
   const [value, setValue] = useState(0);
 
@@ -26,4 +26,4 @@ const decriceHandelar = ()=>{
   )
 }
 
-export default DataEffect
+export default DataUseState

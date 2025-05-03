@@ -1,15 +1,16 @@
 import React from 'react'
 
-const SingleUserData = ({singleData}) => {
-const {name, website, phone, company} = singleData;
 
+const SingleUserData = ({singleData}) => {
+const {name, phone, website, company} = singleData;
+
+  
   return (
     <div>
-        <h1>{name}</h1>
-        <h2>{phone}</h2>
-        <p>{website}</p>
-        <p>Company name: {company.name}</p>
-        <span>{company.catchPhase}</span>
+      <h1>Name: {name}</h1>
+      <h1>Phone: {phone}</h1>
+      <h1>Website: {website}</h1>
+      <h1>Company: {company.catchPhrase}</h1>
     </div>
   )
 }
