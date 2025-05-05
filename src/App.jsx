@@ -4,11 +4,13 @@ import DataUseEffect from './Component/SingleUserData/DataUseEffect'
 
 
 
+
 const App = () => {
   return (
     <div>
       <DataUseState />
-      <DataUseEffect />      
+      <DataUseEffect />   
+      
     </div>
   )
 }
