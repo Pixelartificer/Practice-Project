@@ -1,0 +1,122 @@
+[
+    {
+      "id": "1",
+      "name": "Wireless Headphones",
+      "brand": "SoundPro",
+      "description": "High-quality noise-cancelling headphones with 30-hour battery life.",
+      "imageUrl": "https://example.com/products/headphones.jpg",
+      "price": 99.99,
+      "quantity": 2,
+      "category": "Electronics",
+      "inStock": true,
+      "addedAt": "2025-05-07T12:30:00Z"
+    },
+    {
+      "id": "2",
+      "name": "Smartphone",
+      "brand": "TechOne",
+      "description": "Latest 5G smartphone with powerful performance and sleek design.",
+      "imageUrl": "https://example.com/products/smartphone.jpg",
+      "price": 699.99,
+      "quantity": 1,
+      "category": "Electronics",
+      "inStock": true,
+      "addedAt": "2025-05-07T13:00:00Z"
+    },
+    {
+      "id": "3",
+      "name": "Bluetooth Speaker",
+      "brand": "BoomSound",
+      "description": "Portable Bluetooth speaker with deep bass and waterproof design.",
+      "imageUrl": "https://example.com/products/speaker.jpg",
+      "price": 49.99,
+      "quantity": 3,
+      "category": "Electronics",
+      "inStock": true,
+      "addedAt": "2025-05-07T13:15:00Z"
+    },
+    {
+      "id": "4",
+      "name": "Gaming Mouse",
+      "brand": "ClickPro",
+      "description": "Ergonomic gaming mouse with customizable RGB lighting.",
+      "imageUrl": "https://example.com/products/mouse.jpg",
+      "price": 29.99,
+      "quantity": 1,
+      "category": "Accessories",
+      "inStock": true,
+      "addedAt": "2025-05-07T13:30:00Z"
+    },
+    {
+      "id": "5",
+      "name": "Mechanical Keyboard",
+      "brand": "KeyMaster",
+      "description": "RGB backlit mechanical keyboard with blue switches.",
+      "imageUrl": "https://example.com/products/keyboard.jpg",
+      "price": 79.99,
+      "quantity": 1,
+      "category": "Accessories",
+      "inStock": true,
+      "addedAt": "2025-05-07T13:45:00Z"
+    },
+    {
+      "id": "6",
+      "name": "Smartwatch",
+      "brand": "FitGear",
+      "description": "Fitness tracking smartwatch with heart rate and sleep monitor.",
+      "imageUrl": "https://example.com/products/smartwatch.jpg",
+      "price": 129.99,
+      "quantity": 1,
+      "category": "Wearables",
+      "inStock": true,
+      "addedAt": "2025-05-07T14:00:00Z"
+    },
+    {
+      "id": "7",
+      "name": "Laptop Stand",
+      "brand": "Elevate",
+      "description": "Adjustable aluminum laptop stand for ergonomic comfort.",
+      "imageUrl": "https://example.com/products/laptop-stand.jpg",
+      "price": 39.99,
+      "quantity": 2,
+      "category": "Accessories",
+      "inStock": true,
+      "addedAt": "2025-05-07T14:15:00Z"
+    },
+    {
+      "id": "8",
+      "name": "External Hard Drive",
+      "brand": "DataSafe",
+      "description": "2TB portable hard drive with fast USB 3.0 connectivity.",
+      "imageUrl": "https://example.com/products/hard-drive.jpg",
+      "price": 89.99,
+      "quantity": 1,
+      "category": "Storage",
+      "inStock": true,
+      "addedAt": "2025-05-07T14:30:00Z"
+    },
+    {
+      "id": "9",
+      "name": "Wireless Charger",
+      "brand": "ChargeUp",
+      "description": "Fast wireless charger compatible with all Qi-enabled devices.",
+      "imageUrl": "https://example.com/products/charger.jpg",
+      "price": 24.99,
+      "quantity": 2,
+      "category": "Accessories",
+      "inStock": true,
+      "addedAt": "2025-05-07T14:45:00Z"
+    },
+    {
+      "id": "10",
+      "name": "Noise Cancelling Earbuds",
+      "brand": "ZenSound",
+      "description": "Compact earbuds with active noise cancellation and long battery life.",
+      "imageUrl": "https://example.com/products/earbuds.jpg",
+      "price": 59.99,
+      "quantity": 1,
+      "category": "Audio",
+      "inStock": true,
+      "addedAt": "2025-05-07T15:00:00Z"
+    }
+  ]
