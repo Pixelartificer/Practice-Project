@@ -2,6 +2,7 @@ import React from 'react'
 import DataUseState from './Component/DataUseState'
 import DataUseEffect from './Component/SingleUserData/DataUseEffect'
 import DataFatch from './Component/SingleUserData/DataFatch'
+import LandDetails from './Component/SingleUserData/LandDetails'
 
 
 
@@ -12,6 +13,7 @@ const App = () => {
       <DataUseState />
       <DataUseEffect />  
       <DataFatch /> 
+      <LandDetails />
       
     </div>
   )
